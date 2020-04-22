@@ -3,14 +3,127 @@
 /usr/lib/libGLESv2.so              /usr/lib/libGLESv2.so
 /usr/lib/libGLESv2.so.2            /usr/lib/libGLESv2.so
 
-/usr/lib/libwayland-egl.so      /usr/lib/libwayland-egl.so.0
-/usr/lib/libwayland-egl.so.0      /usr/lib/libwayland-egl.so.0
-/usr/lib/libwayland-egl.so.1      /usr/lib/libwayland-egl.so.0
-
 /usr/lib/libwayland-server.so.0    /usr/lib/libwayland-server.so.0
+
 
 /usr/lib/libnxclient.so           /usr/lib/libnxclient.so
 /usr/lib/libnexus.so              /usr/lib/libnexus.so
 /usr/lib/libnxpl.so               /usr/lib/libnxpl.so
 
+/usr/lib/libWPEFrameworkCore.so  /usr/lib/libWPEFrameworkCore.so.1
+/usr/lib/libWPEFrameworkCore.so.1 /usr/lib/libWPEFrameworkCore.so.1
+/usr/lib/libWPEFrameworkCore.so.1.0.0 /usr/lib/libWPEFrameworkCore.so.1
+
+/usr/lib/libWPEFrameworkDefinitions.so /usr/lib/libWPEFrameworkDefinitions.so.1
+/usr/lib/libWPEFrameworkDefinitions.so.1 /usr/lib/libWPEFrameworkDefinitions.so.1
+/usr/lib/libWPEFrameworkDefinitions.so.1.0.0 /usr/lib/libWPEFrameworkDefinitions.so.1
+
+/usr/lib/libWPEFrameworkTracing.so /usr/lib/libWPEFrameworkTracing.so.1 
+/usr/lib/libWPEFrameworkTracing.so.1 /usr/lib/libWPEFrameworkTracing.so.1 
+/usr/lib/libWPEFrameworkTracing.so.1.0.0 /usr/lib/libWPEFrameworkTracing.so.1 
+
+/usr/lib/libWPEFrameworkCryptalgo.so /usr/lib/libWPEFrameworkCryptalgo.so.1 
+/usr/lib/libWPEFrameworkCryptalgo.so.1 /usr/lib/libWPEFrameworkCryptalgo.so.1 
+/usr/lib/libWPEFrameworkCryptalgo.so.1.0.0 /usr/lib/libWPEFrameworkCryptalgo.so.1 
+
+/usr/lib/libWPEFrameworkPlugins.so /usr/lib/libWPEFrameworkPlugins.so.1 
+/usr/lib/libWPEFrameworkPlugins.so.1 /usr/lib/libWPEFrameworkPlugins.so.1 
+/usr/lib/libWPEFrameworkPlugins.so.1.0.0 /usr/lib/libWPEFrameworkPlugins.so.1 
+
+/usr/lib/libWPEFrameworkProtocols.so /usr/lib/libWPEFrameworkProtocols.so.1 
+/usr/lib/libWPEFrameworkProtocols.so.1 /usr/lib/libWPEFrameworkProtocols.so.1 
+/usr/lib/libWPEFrameworkProtocols.so.1.0.0 /usr/lib/libWPEFrameworkProtocols.so.1 
+
+/usr/lib/libessos.so.0  /usr/lib/libessos.so.0
+/usr/lib/libessos.so.0.0.0  /usr/lib/libessos.so.0
+
+
+/usr/lib/libgstadaptivedemux-1.0.so.0 /usr/lib/libgstadaptivedemux-1.0.so.0
+/usr/lib/libgstadaptivedemux-1.0.so.0.1004.0 /usr/lib/libgstadaptivedemux-1.0.so.0
+
+/usr/lib/libgstapp-1.0.so.0 /usr/lib/libgstapp-1.0.so.0
+/usr/lib/libgstapp-1.0.so.0.1004.0 /usr/lib/libgstapp-1.0.so.0
+
+/usr/lib/libgstaudio-1.0.so.0  /usr/lib/libgstaudio-1.0.so.0
+/usr/lib/libgstaudio-1.0.so.0.1004.0 /usr/lib/libgstaudio-1.0.so.0
+
+/usr/lib/libgstbase-1.0.so.0 /usr/lib/libgstbase-1.0.so.0
+/usr/lib/libgstbase-1.0.so.0.1004.0 /usr/lib/libgstbase-1.0.so.0
+
+/usr/lib/libgstcheck-1.0.so.0 /usr/lib/libgstcheck-1.0.so.0
+/usr/lib/libgstcheck-1.0.so.0.1004.0 /usr/lib/libgstcheck-1.0.so.0
+
+/usr/lib/libgstcodecparsers-1.0.so.0 /usr/lib/libgstcodecparsers-1.0.so.0
+/usr/lib/libgstcodecparsers-1.0.so.0.1004.0 /usr/lib/libgstcodecparsers-1.0.so.0
+
+/usr/lib/libgstcontroller-1.0.so.0 /usr/lib/libgstcontroller-1.0.so.0
+/usr/lib/libgstcontroller-1.0.so.0.1004.0 /usr/lib/libgstcontroller-1.0.so.0
+
+/usr/lib/libgstfft-1.0.so.0 /usr/lib/libgstfft-1.0.so.0
+/usr/lib/libgstfft-1.0.so.0.1004.0 /usr/lib/libgstfft-1.0.so.0
+
+/usr/lib/libgstmpegts-1.0.so.0 /usr/lib/libgstmpegts-1.0.so.0
+/usr/lib/libgstmpegts-1.0.so.0.1004.0 /usr/lib/libgstmpegts-1.0.so.0
+
+/usr/lib/libgstnet-1.0.so.0 /usr/lib/libgstnet-1.0.so.0
+/usr/lib/libgstnet-1.0.so.0.1004.0 /usr/lib/libgstnet-1.0.so.0
+
+/usr/lib/libgstpbutils-1.0.so.0 /usr/lib/libgstpbutils-1.0.so.0
+/usr/lib/libgstpbutils-1.0.so.0.1004.0 /usr/lib/libgstpbutils-1.0.so.0
+
+/usr/lib/libgstreamer-1.0.so.0 /usr/lib/libgstreamer-1.0.so.0
+/usr/lib/libgstreamer-1.0.so.0.1004.0 /usr/lib/libgstreamer-1.0.so.0
+
+/usr/lib/libgstriff-1.0.so.0 /usr/lib/libgstriff-1.0.so.0
+/usr/lib/libgstriff-1.0.so.0.1004.0 /usr/lib/libgstriff-1.0.so.0
+
+/usr/lib/libgstrmfmeta.so.0 /usr/lib/libgstrmfmeta.so.0
+/usr/lib/libgstrmfmeta.so.0.0.0 /usr/lib/libgstrmfmeta.so.0
+
+/usr/lib/libgstrtp-1.0.so.0 /usr/lib/libgstrtp-1.0.so.0
+/usr/lib/libgstrtp-1.0.so.0.1004.0 /usr/lib/libgstrtp-1.0.so.0
+
+/usr/lib/libgsturidownloader-1.0.so.0 /usr/lib/libgsturidownloader-1.0.so.0
+/usr/lib/libgsturidownloader-1.0.so.0.1004.0 /usr/lib/libgsturidownloader-1.0.so.0
+
+/usr/lib/libgstvideo-1.0.so.0.1004.0 /usr/lib/libgstvideo-1.0.so.0
+/usr/lib/libgstvideo-1.0.so.0  /usr/lib/libgstvideo-1.0.so.0
+
+/usr/lib/libgsttag-1.0.so.0  /usr/lib/libgsttag-1.0.so.0
+/usr/lib/libgsttag-1.0.so.0.1004.0 /usr/lib/libgsttag-1.0.so.0
+
+/usr/lib/libsrai.so /usr/lib/libsrai.so
+
+/usr/lib/libaudioserver.so.0 /usr/lib/libaudioserver.so.0
+/usr/lib/libaudioserver-soc.so.0 /usr/lib/libaudioserver-soc.so.0
+
+/usr/lib/libmpg123.so.0 /usr/lib/libmpg123.so.0
+/usr/lib/libb_os.so /usr/lib/libb_os.so
+/usr/lib/liborc-0.4.so.0 /usr/lib/liborc-0.4.so.0
+/usr/lib/libbz2.so.1 /usr/lib/libbz2.so.1
+/usr/lib/libogg.so.0 /usr/lib/libogg.so.0
+/usr/lib/libsbc.so.1 /usr/lib/libsbc.so.1
+/usr/lib/libxml2.so.2 /usr/lib/libxml2.so.2
+/usr/lib/libsoup-2.4.so.1 /usr/lib/libsoup-2.4.so.1
+/usr/lib/libcurl.so.4 /usr/lib/libcurl.so.4
+/usr/lib/libsqlite3.so.0 /usr/lib/libsqlite3.so.0
+
+/usr/lib/libocdm.so /usr/lib/libocdm.so.1
+/usr/lib/libocdm.so.1 /usr/lib/libocdm.so.1
+/usr/lib/libocdm.so.1.0.0 /usr/lib/libocdm.so.1
+
+/usr/lib/libb_secbuf.so /usr/lib/libb_secbuf.so
+
+/usr/lib/libbrcmsvpmeta.so /usr/lib/libbrcmsvpmeta.so
+
+/usr/lib/libssl.so.1.0.0  /usr/lib/libssl.so.1.0.0
+/usr/lib/libcrypto.so.1.0.0 /usr/lib/libcrypto.so.1.0.0
+/usr/lib/gstreamer-1.0 /usr/lib/gstreamer-1.0
+
+/usr/lib/libwesteros_gl.so.0 /usr/lib/libwesteros_gl.so.0
+/usr/lib/libwesteros_gl.so.0.0.0 /usr/lib/libwesteros_gl.so.0
+/usr/lib/libwesteros_compositor.so.0 /usr/lib/libwesteros_compositor.so.0
+/usr/lib/libwesteros_simplebuffer_server.so.0 /usr/lib/libwesteros_simplebuffer_server.so.0
+/usr/lib/libwesteros_simpleshell_server.so.0 /usr/lib/libwesteros_simpleshell_server.so.0
+/usr/lib/libwesteros_simplebuffer_client.so.0 /usr/lib/libwesteros_simplebuffer_client.so.0
 /usr/lib/libwesteros_simpleshell_client.so.0 /usr/lib/libwesteros_simpleshell_client.so.0

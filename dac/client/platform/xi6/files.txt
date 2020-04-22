@@ -1,4 +1,7 @@
 /tmp/wayland-0   /tmp/westeros-dac
 /etc/ssl/certs /etc/ssl/certs
 /etc/resolv.conf    /etc/resolv.conf
+/tmp/ocdm /tmp/ocdm
+/tmp/ocdmbuffer.0 /tmp/ocdmbuffer.0
+/tmp/ocdmbuffer.0.admin /tmp/ocdmbuffer.0.admin
 /tmp/nxserver_ipc   /tmp/nxserver_ipc

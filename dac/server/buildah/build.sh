@@ -93,7 +93,8 @@ do
         echo "Pushing single arch container to repo"
         # push to ibm
         #buildah login us.icr.io
-        buildah push localhost/${container}:${to} docker://us.icr.io/appcontainerstagingrdk/${container}:${to}
+        #buildah push localhost/${container}:${to} docker://us.icr.io/appcontainerstagingrdk/${container}:${to}
+        buildah push localhost/${container}:${to} docker://docker.io/gurdal/${container}:${to}
     else
         echo "Commit container ${container}_${to}"
         buildah commit $newcontainer ${container}_${arch}:${to}
@@ -119,7 +120,7 @@ if [ ! $no_archs -eq 1 ]; then
     buildah manifest inspect ${container} 
 
     echo "Pushing the manifest multi arch container to the registry"
-    buildah manifest push --all ${container} docker://us.icr.io/appcontainerstagingrdk/$container:${to}
+    #buildah manifest push --all ${container} docker://us.icr.io/appcontainerstagingrdk/$container:${to}
+    buildah manifest push --all ${container} docker://docker.io/gurdal/$container:${to}
 fi
-
 echo "Done."

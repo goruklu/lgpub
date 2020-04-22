@@ -1,0 +1,5 @@
+cmd='["/usr/bin/cobalt_bin"]'
+cwd="/"
+env='PATH=/usr/sbin:/usr/bin:/sbin:/bin'
+
+files="files/wayland-egl-test_arm32.tar.gz files/cobalt_arm32_qa.tar.gz files/libnss_dns.tar.gz files/libwayland-egl.tar.gz"
